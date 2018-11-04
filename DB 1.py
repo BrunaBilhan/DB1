@@ -24,4 +24,3 @@ if t == 2:
     print('Esse número é primo.')
 else:
     print('Esse número não é primo.')
-
